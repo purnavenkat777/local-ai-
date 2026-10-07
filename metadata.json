@@ -1,0 +1,6 @@
+{
+  "name": "Diya",
+  "description": "Local-first personal AI assistant connected to llama.cpp with persistent memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "diya-local-bridge",
+  "version": "1.0.0",
+  "description": "Local Bridge server connecting Diya to llama.cpp and local SQLite database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
